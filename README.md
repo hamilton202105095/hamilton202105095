@@ -68,7 +68,6 @@ Soy estudiante de **Ingeniería en Sistemas** en la Facultad de Ingeniería de l
 
 ¿Quieres colaborar, tienes una oportunidad o simplemente quieres charlar de tecnología? Escríbeme:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO/)
 - ✉️ [hamiltonbethancourtzapeta@gmail.com](mailto:hamiltonbethancourtzapeta@gmail.com)
 
 <div align="center">
